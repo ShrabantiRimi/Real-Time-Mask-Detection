@@ -1,0 +1,10 @@
+{
+  "MLModelVersionStringKey" : "1.0.0",
+  "MLModelDescriptionKey" : "Real Time Mask Detection",
+  "MLModelCreatorDefinedKey" : {
+    "com.github.apple.coremltools.version" : "4.0b2",
+    "com.github.apple.coremltools.source" : "tensorflow==2.3.0"
+  },
+  "MLModelAuthorKey" : "Saddam Hossain, Sayeed Rahman, Sranbanti Saha Rimi",
+  "MLModelLicenseKey" : "Frankfurt University of Applied Sciences"
+}

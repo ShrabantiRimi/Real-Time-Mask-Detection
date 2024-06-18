@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "4E93311E-3695-4595-B6BB-8A324972BF38": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "MaskModel.mlmodel",
+            "path": "com.apple.CoreML/MaskModel.mlmodel"
+        },
+        "78C542EF-2B2B-4D98-B078-FB8E15AAE926": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "CA06BF8E-1763-4048-8259-D70E289A2E0D": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "4E93311E-3695-4595-B6BB-8A324972BF38"
+}
